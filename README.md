@@ -37,7 +37,7 @@ To run this project, clone the repository and open the Jupyter notebook spam_det
 
 Results
 
-The best performing model was a Decision Tree, with an accuracy of 92.57% and F1-score of 0.93. This model was able to correctly classify 79 out of 85 spam emails in the test set.
+The best performing model was a KNN without PCA and the Qt, with an accuracy of 95% and F1-score of 0.94. 
 Conclusion
 
-In this project, we have developed a machine learning model to classify emails as spam or not spam. We explored the dataset, preprocessed the data, applied feature scaling and dimensionality reduction, and oversampled the minority class. We trained and evaluated various models and identified a Decision Tree as the best performing model. The model achieved an accuracy of 92.57% and F1-score of 0.93.
+In this project, we have developed a machine learning model to classify emails as spam or not spam. We explored the dataset, preprocessed the data, applied feature scaling and dimensionality reduction, and oversampled the minority class. We trained and evaluated various models and identified a KNN as the best performing model. The model achieved an accuracy of 95% and F1-score of 0.94.
